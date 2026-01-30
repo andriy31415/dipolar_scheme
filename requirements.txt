@@ -1,6 +1,6 @@
-pandas
-ipywidgets
-numpy
-matplotlib.pyplot
-import_ipynb
-math
+ipywidgets==8.1.8
+numpy==2.3.4
+matplotlib==3.10.8
+import_ipynb==0.2
+Ipython==9.7.0
+scipy==1.16.3
